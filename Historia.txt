@@ -1,7 +1,7 @@
 ### JORNADA DE UM DEV
 
 Introdução
-
+João Silva da Silva sempre se interessou por tecnologia. Na infância, seu pai lhe deu um computador, mas foi com o interesse por jogos que sua disposição para estudar sobre o mundo do desenvolvimento de software começou. Viu vídeos no YouTube sobre Python e iniciou sua jornada; fez jogos simples, como Frog e Pong. Apaixonou-se por Python por sua sintaxe minimalista e expressiva, sua versatilidade multiplataforma e como ele conseguia materializar ideias em frases, apenas com sua lógica.
 Desenvolvimento
 
 Conclusão
