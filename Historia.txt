@@ -4,4 +4,8 @@ Introdução
 
 Desenvolvimento
 
+     O começo da carreira de João foi como freelancer e seu primeiro projeto foi a criação de um software para controle de estoque para um mercado de sua cidade, logo os problemas começaram e o rapaz percebeu que a vida de desenvolvedor não é um morango. Como o jovem ainda utilizava o computador que seu pai lhe deu na infância, ao criar uma aplicação mais complexa seu dispositivo começou a travar por conta da memória RAM insuficiente com relação ao consumo, assim tendo que escolher entre refazer o projeto com uma linguagem que crie menos objetos na memória ou atualizar seu hardware, assim optando pela segunda opção.
+     Após a entrega de seu primeiro software com sucesso, Silva da Silva passou a ser recomendado para outras empresas e assumiu diversos projetos. O rapaz então montou uma equipe para o auxiliar e passou a utilizar o git para o controle de versionamento. Porém, pela falta de experiência e estudo sobre a ferramenta, começaram a surgir conflitos na hora do merge, braches excluídas acidentalmente ocasionando na perda de trabalho e commits com alterações muito extensas que tomavam muito tempo.
+     Silva então percebendo a necessidade de investimento e formalização de um negócio para seus projetos obterem sucesso, investiu no hardware e treinamento de sua equipe, afim de garantir que todos possam trabalhar com as ferramentas adequadas e utilizá-las de maneira eficiente.
+
 Conclusão
