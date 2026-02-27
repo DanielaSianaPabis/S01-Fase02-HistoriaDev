@@ -1,15 +1,22 @@
 ### JORNADA DE UM DEV
 
-Introdução
 
-     João Silva da Silva sempre se interessou por tecnologia. Na infância, seu pai lhe deu um computador, mas foi com o interesse por jogos que sua disposição para estudar sobre o mundo do desenvolvimento de software começou. Viu vídeos no YouTube sobre Python e iniciou sua jornada; fez jogos simples, como Frog e Pong. Apaixonou-se por Python por sua sintaxe minimalista e expressiva, sua versatilidade multiplataforma e como ele conseguia materializar ideias em frases, apenas com sua lógica.
+     João Silva da Silva sempre se interessou por tecnologia. Na infância, seu pai lhe deu um computador, mas foi com o interesse por jogos que sua disposição para estudar sobre o mundo do desenvolvimento de software
+começou. Ele assistiu a vídeos no YouTube sobre Python e iniciou sua jornada, criando jogos simples, como Frog e Pong. Apaixonou-se por Python devido à sua sintaxe minimalista e expressiva, sua versatilidade 
+multiplataforma e pela forma como conseguia materializar ideias em comandos, utilizando apenas sua lógica.
 
-Desenvolvimento
+     O início da carreira de João foi como freelancer, e seu primeiro projeto consistiu na criação de um software de controle de estoque para um mercado de sua cidade. Logo, os problemas começaram, e o rapaz percebeu que a
+vida de desenvolvedor não é um morango. Como ainda utilizava o computador que seu pai lhe dera na infância, ao criar uma aplicação mais complexa, seu dispositivo começou a travar devido à memória RAM insuficiente em 
+relação ao consumo exigido. Diante disso, precisou escolher entre refazer o projeto utilizando uma linguagem que consumisse menos memória ou atualizar seu hardware, optando pela segunda alternativa.
 
-     O começo da carreira de João foi como freelancer e seu primeiro projeto foi a criação de um software para controle de estoque para um mercado de sua cidade, logo os problemas começaram e o rapaz percebeu que a vida de desenvolvedor não é um morango. Como o jovem ainda utilizava o computador que seu pai lhe deu na infância, ao criar uma aplicação mais complexa seu dispositivo começou a travar por conta da memória RAM insuficiente com relação ao consumo, assim tendo que escolher entre refazer o projeto com uma linguagem que crie menos objetos na memória ou atualizar seu hardware, assim optando pela segunda opção.
-     Após a entrega de seu primeiro software com sucesso, Silva da Silva passou a ser recomendado para outras empresas e assumiu diversos projetos. O rapaz então montou uma equipe para o auxiliar e passou a utilizar o git para o controle de versionamento. Porém, pela falta de experiência e estudo sobre a ferramenta, começaram a surgir conflitos na hora do merge, braches excluídas acidentalmente ocasionando na perda de trabalho e commits com alterações muito extensas que tomavam muito tempo.
-     Silva então percebendo a necessidade de investimento e formalização de um negócio para seus projetos obterem sucesso, investiu no hardware e treinamento de sua equipe, afim de garantir que todos possam trabalhar com as ferramentas adequadas e utilizá-las de maneira eficiente.
+Após a entrega bem-sucedida de seu primeiro software, Silva da Silva passou a ser recomendado para outras empresas e assumiu diversos projetos. O rapaz, então, montou uma equipe para auxiliá-lo e passou a utilizar o Git 
+para o controle de versionamento. Porém, devido à falta de experiência e estudo sobre a ferramenta, começaram a surgir conflitos durante os merges, branches foram excluídas acidentalmente, ocasionando perda de trabalho, e 
+commits com alterações muito extensas passaram a demandar mais tempo do que o necessário.
 
-Conclusão
+Percebendo a necessidade de investimento e formalização de seu negócio para que seus projetos obtivessem sucesso, Silva investiu tanto em hardware quanto no treinamento de sua equipe, a fim de garantir que todos pudessem 
+trabalhar com as ferramentas adequadas e utilizá-las de maneira eficiente.
 
-     João percebeu que a jornada que começou com um simples computador e vídeos no YouTube era muito maior do que ele imaginava. Entendeu que ser desenvolvedor não significa apenas escrever boas linhas de código, mas saber lidar com limitações, gerenciar pessoas e tomar decisões difíceis no momento correto. Cada problema enfrentado, seja o hardware com mal funcionamento ou um merge errôneo que demandou horas de trabalho para ser resolvido, o ensinou que o verdadeiro crescimento vem de encarar os erros e transformá-los em processos. No fim, Silva não apenas havia construído softwares; havia construído a si mesmo como profissional.
+     João percebeu que a jornada que começou com um simples computador e vídeos no YouTube era muito maior do que imaginava. Entendeu que ser desenvolvedor não significa apenas escrever boas linhas de código, mas também 
+saber lidar com limitações, gerenciar pessoas e tomar decisões difíceis no momento adequado. Cada problema enfrentado, seja um hardware com desempenho insuficiente ou um merge incorreto que demandou horas de trabalho para 
+ser resolvido, ensinou-lhe que o verdadeiro crescimento vem de encarar os erros e transformá-los em aprendizado.
+Ao final, Silva não havia apenas construído softwares; havia construído a si mesmo como profissional.
