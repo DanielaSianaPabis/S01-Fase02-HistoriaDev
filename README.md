@@ -4,7 +4,7 @@
 
 Este repositório foi criado com o objetivo de simular um ambiente de desenvolvimento colaborativo, permitindo a prática de conceitos fundamentais relacionados ao uso de sistemas de controle de versão (neste caso o Git). A proposta foi reproduzir, de forma estruturada, situações comuns em projetos reais, como o trabalho simultâneo entre múltiplos colaboradores, a organização de alterações e a integração segura dos conteúdos.
 
-Nesse sentido, o repositório incorpora uma narrativa fictícia que acompanha a trajetória de um desenvolvedor iniciante, com o propósito de contextualizar o uso das ferramentas e demonstrar, de forma prática, os desafios e aprendizados envolvidos no desenvolvimento de software colaborativo.
+Nesse sentido, o repositório incorpora uma narrativa fictícia que acompanha a trajetória de um desenvolvedor iniciante, com o propósito de contextualizar o uso das ferramentas e demonstrar, de forma prática, os desafios e aprendizados envolvidos no desenvolvimento de softwares.
 
 ---
 
@@ -13,10 +13,10 @@ Nesse sentido, o repositório incorpora uma narrativa fictícia que acompanha a 
 Este repositório possui como principais objetivos:
 
 - Praticar a criação e o gerenciamento de branches;
-- Compreender o processo de integração de código por meio de merges;
+- Compreender o processo de integração de conteúdo por meio de merges;
 - Identificar e resolver conflitos de versionamento;
 - Simular o trabalho colaborativo em um mesmo projeto;
-- Entender o fluxo de desenvolvimento baseado em várias branches.
+- Entender o fluxo de trabalho baseado em várias branches.
 
 ---
 
@@ -33,7 +33,7 @@ O repositório está organizado de forma a refletir um fluxo de desenvolvimento 
 
 ## Considerações finais
 
-Por meio desta simulação, buscou-se consolidar o entendimento das ferramentas, dos processos e das boas práticas utilizadas no desenvolvimento de software colaborativo. O uso do Git, aliado à organização em branches e à integração estruturada das alterações, representou uma habilidade essencial para atuação em ambientes profissionais.
+Por meio desta simulação, buscou-se consolidar o entendimento das ferramentas, dos processos e das boas práticas utilizadas para o desenvolvimento de trabalhos colaborativo. O uso do Git, aliado à organização em branches e à integração estruturada das alterações, representou uma habilidade essencial para atuação em ambientes profissionais.
 
 Este repositório, juntamente com sua narrativa fictícia, contribuiu para o desenvolvimento dessas competências, reforçando a importância do versionamento e da organização.
 
